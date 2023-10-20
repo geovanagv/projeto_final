@@ -13,7 +13,7 @@ export default function Balance() {
     </View>
    </View>
   );
-}
+} 
 
 const styles = StyleSheet.create({
 

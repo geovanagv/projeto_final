@@ -20,8 +20,8 @@ const styles = StyleSheet.create({
     container:{
         backgroundColor: '#8000ff',
         paddingTop: statusBarHeigth,
-        flexDirection: 'row',
-        paddingStart: 100,
+        flexDirection: 'row', 
+        paddingStart: 100, 
         paddingEnd: 15,
         paddingBottom: 2,
     },
